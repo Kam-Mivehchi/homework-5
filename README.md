@@ -15,7 +15,9 @@ techniques
 
 
 github link:
-
+https://github.com/Kam-Mivehchi/homework-5
 deployed website link:
-
+https://kam-mivehchi.github.io/homework-5/
 screenshot:
+![image](https://user-images.githubusercontent.com/90432404/138576045-6f2dd706-42a9-4e16-9926-78adbfe7c996.png)
+
